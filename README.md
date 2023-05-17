@@ -8,7 +8,7 @@
 
 - 📫 Reach out to me at **fernan17893@gmail.com**
 
-- :robot: [Resume](https://github.com/fernan17893/fernan17893/blob/main/Fern-1.pdf)
+- :robot: [Resume](https://github.com/fernan17893/fernan17893/blob/main/Fern-3.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
