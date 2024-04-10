@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Aponte</h1>
 <h3 align="center">Full Stack Software Developer currently in San Juan Puerto Rico</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2b/da/c6/2bdac671af22585887198f2f4db2a88f.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/ptl9U5YvK_wAAAAi/shiny-charizard-fire.gif">
 
 - 🔭 I’m currently studying **at Holberton School Puerto Rico**
 
